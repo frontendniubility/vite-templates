@@ -1,9 +1,7 @@
 # vite-templates（模板大全）
-
-> ## 该仓库是所有用 vite 构建工具创建的相关项目模板（持续更新）
->
-> ## 如果觉得项目模板不错的话，欢迎 Star 支持就好，感谢大家！
-
+  > ## 该仓库是所有用 vite 构建工具创建的相关项目模板（持续更新）
+  >
+  > ## 如果觉得项目模板不错的话，欢迎 Star 支持就好，感谢大家！
 
 ## 1. koa2-ssr-vite-vue3-ts-pinia
   koa2 + vite + vue3 + typescript + pinia 构建的前端 SSR 项目
@@ -26,5 +24,8 @@
 ## 7. vite-vue3
   vite + vue3 + typescript 构建的项目模板
 
-## 8. vue3-vite3-ts
-  Vue3 + Vite3 + Typescript4.5 现代前端框架
+## 8. pnpm-tool-template
+  pnpm workspace + typescript 搭建的前端工具库项目模板
+
+## 9. vite-nuxt3-app
+  nuxt3 + vite3  前端 SSR 项目通用模板
