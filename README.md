@@ -29,3 +29,6 @@
 
 ## 9. vite-nuxt3-app
   nuxt3 + vite3  前端 SSR 项目通用模板
+
+## 10. vue3-vite2-ts
+  Vue3 + Vite2 + Typescript4.5 现代前端框架
