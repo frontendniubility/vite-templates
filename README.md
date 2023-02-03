@@ -29,3 +29,21 @@
 
 ## 9. vite-nuxt3-app
   nuxt3 + vite3  前端 SSR 项目通用模板
+
+## 10. vue3-vite2-ts
+  Vue3 + Vite2 + Typescript4.5 现代前端框架
+
+
+## 11. vite_tdesign_admin
+ 
+因为要开发的是一个中后台管理系统，所以方向选择为 SPA (Single Page Application) 单页面应用程序。本项目基于 create-vue 模板搭建，Vite 构建
+一个不错的 后台模板 ,代码比较 规范
+
+https://github.com/BabyLy233/management-system-tdesign
+
+management-system-tdesign.vercel.app
+
+## 12. vite_tdesign_ts_dash 
+
+一个精简版的后台, 可以用于小项目的 构建与启用
+https://github.com/httek/bz-dash.git
