@@ -1,0 +1,3 @@
+[submodule "vite_Vue3-TDesign-admin"]
+	path = vite_Vue3-TDesign-admin
+	url = https://github.com/WaliAblikim/Vue3-TDesign-admin.git

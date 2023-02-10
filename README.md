@@ -3,6 +3,13 @@
   >
   > ## 如果觉得项目模板不错的话，欢迎 Star 支持就好，感谢大家！
 
+## add submodule
+
+```
+   git submodule add <仓库地址> <本地路径>
+```
+
+
 ## 1. koa2-ssr-vite-vue3-ts-pinia
   koa2 + vite + vue3 + typescript + pinia 构建的前端 SSR 项目
 
@@ -46,3 +53,9 @@ management-system-tdesign.vercel.app
 
 一个精简版的后台, 可以用于小项目的 构建与启用
 https://github.com/httek/bz-dash.git
+
+
+## 13. vite_Vue3-TDesign-admin
+
+🎉🎉 A magical vue3 admin.
+https://github.com/WaliAblikim/Vue3-TDesign-admin.git
