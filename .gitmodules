@@ -1,3 +1,6 @@
 [submodule "vite_Vue3-TDesign-admin"]
 	path = vite_Vue3-TDesign-admin
 	url = https://github.com/WaliAblikim/Vue3-TDesign-admin.git
+[submodule "vite_admin-boilerplate"]
+	path = vite_admin-boilerplate
+	url = https://gitclone.com/github.com/hiliyongke/vue3-admin-boilerplate.git

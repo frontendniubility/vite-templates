@@ -59,3 +59,11 @@ https://github.com/httek/bz-dash.git
 
 🎉🎉 A magical vue3 admin.
 https://github.com/WaliAblikim/Vue3-TDesign-admin.git
+
+
+
+## 14. vite_admin-boilerplate
+
+https://github.com/hiliyongke/vue3-admin-boilerplate
+
+vue3 admin 模板项目 一个开箱即用，快速搭建大型 web 应用的 pnpm + vue3 + vite3 + typescript+ pinia + tdesign + EsLint + Prettier + Husky + Commitlint + Lint-staged + Cz-customizable + Conventional Changelog ...中后台模板框架。集成了主流插件，丰富的 demo，并进行了模块化和按需加载的优化，可以放心使用。

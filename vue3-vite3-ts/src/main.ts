@@ -6,10 +6,10 @@
  * ======================================================================
  * see https://v3.cn.vuejs.org/ or https://vuejs.org/
  */
-import { createApp } from 'vue';
-import bootstrapPlugins from './plugins';
-import setupDirectives from './directives';
-import App from './App.vue';
+import { createApp } from "vue";
+import bootstrapPlugins from "./plugins";
+import setupDirectives from "./directives";
+import App from "./App.vue";
 
 const app = createApp(App);
 
@@ -17,4 +17,4 @@ const app = createApp(App);
 setupDirectives(app);
 
 // 自动引导装载项目所依赖的第三方组件插件, 放在plugins目录统一维护
-void bootstrapPlugins(app, () => app.mount('#app'));
+void bootstrapPlugins(app, () => app.mount("#app"));
