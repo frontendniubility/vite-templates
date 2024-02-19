@@ -10,3 +10,6 @@
 [submodule "vue-admin-template"]
 	path = vue-admin-template
 	url = https://gitee.com/panjiachen/vue-admin-template.git
+[submodule "js_react-admin-template"]
+	path = js_react-admin-template
+	url = https://gitee.com/asdadsaf/react-admin-template.git
