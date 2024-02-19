@@ -19,9 +19,9 @@ url = https://gitee.com/asdadsaf/react-admin-template.git
 [submodule "jpure-admin-thin"]
 path = pure-admin-thin
 url = https://gitee.com/yiming_chang/pure-admin-thin.git
-[submodule "vite-kit"]
-path = vite-kit
-url = https://gitee.com/yiming_chang/pure-admin-thin.git
+[submodule "vue-pure-admin"]
+path = vue-pure-admin
+url = https://gitee.com/yiming_chang/vue-pure-admin.git
 [submodule "vite-plugin-cdn-import-async"]
 path = vite-plugin-cdn-import-async
 url = https://github.com/VaJoy/vite-plugin-cdn-import-async.git
