@@ -13,3 +13,6 @@
 [submodule "js_react-admin-template"]
 	path = js_react-admin-template
 	url = https://gitee.com/asdadsaf/react-admin-template.git
+	[submodule "js_sv3-templates"]
+	path = js_sv3-templates
+	url = https://gitee.com/asdadsaf/react-admin-template.git
