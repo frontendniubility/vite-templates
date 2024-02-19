@@ -25,3 +25,9 @@ url = https://gitee.com/yiming_chang/vue-pure-admin.git
 [submodule "vite-plugin-cdn-import-async"]
 path = vite-plugin-cdn-import-async
 url = https://github.com/VaJoy/vite-plugin-cdn-import-async.git
+[submodule "vue3-vite-ts"]
+path = vue3-vite-ts
+url = https://gitee.com/spiketyke/vue3_vite_ts.git
+[submodule "vite3-vue3-ts"]
+path = vite3-vue3-ts
+url = https://gitee.com/WorldOfOne/vite3-vue3-ts.git
