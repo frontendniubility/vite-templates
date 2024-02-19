@@ -1,18 +1,21 @@
 [submodule "vite_Vue3-TDesign-admin"]
-	path = vite_Vue3-TDesign-admin
-	url = https://github.com/WaliAblikim/Vue3-TDesign-admin.git
+path = vite_Vue3-TDesign-admin
+url = https://github.com/WaliAblikim/Vue3-TDesign-admin.git
 [submodule "vite_admin-boilerplate"]
-	path = vite_admin-boilerplate
-	url = https://github.com/hiliyongke/vue3-admin-boilerplate.git
+path = vite_admin-boilerplate
+url = https://github.com/hiliyongke/vue3-admin-boilerplate.git
 [submodule "js_geeker-admin"]
-	path = js_geeker-admin
-	url = https://gitee.com/HalseySpicy/Geeker-Admin.git
+path = js_geeker-admin
+url = https://gitee.com/HalseySpicy/Geeker-Admin.git
 [submodule "vue-admin-template"]
-	path = vue-admin-template
-	url = https://gitee.com/panjiachen/vue-admin-template.git
+path = vue-admin-template
+url = https://gitee.com/panjiachen/vue-admin-template.git
 [submodule "js_react-admin-template"]
-	path = js_react-admin-template
-	url = https://gitee.com/asdadsaf/react-admin-template.git
-	[submodule "js_sv3-templates"]
-	path = js_sv3-templates
-	url = https://gitee.com/asdadsaf/react-admin-template.git
+path = js_react-admin-template
+url = https://gitee.com/asdadsaf/react-admin-template.git
+[submodule "js_sv3-templates"]
+path = js_sv3-templates
+url = https://gitee.com/asdadsaf/react-admin-template.git
+[submodule "jpure-admin-thin"]
+path = pure-admin-thin
+url = https://gitee.com/yiming_chang/pure-admin-thin.git
