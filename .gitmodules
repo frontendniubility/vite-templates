@@ -4,3 +4,9 @@
 [submodule "vite_admin-boilerplate"]
 	path = vite_admin-boilerplate
 	url = https://github.com/hiliyongke/vue3-admin-boilerplate.git
+[submodule "js_geeker-admin"]
+	path = js_geeker-admin
+	url = https://gitee.com/HalseySpicy/Geeker-Admin.git
+[submodule "vue-admin-template"]
+	path = vue-admin-template
+	url = https://gitee.com/panjiachen/vue-admin-template.git
